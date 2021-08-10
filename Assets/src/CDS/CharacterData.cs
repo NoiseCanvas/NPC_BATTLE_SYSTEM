@@ -8,4 +8,6 @@ public class CharacterData
 
     public PowerSystem powerSystem = new PowerSystem();
 
+
+
 }

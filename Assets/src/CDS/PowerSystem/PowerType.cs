@@ -7,6 +7,7 @@ public enum PowerType
     Inputs,
     Outputs,
     Mentality,
+    Core_Attributes,
     MartialAbility,
     Stance,
     ManaCore,
